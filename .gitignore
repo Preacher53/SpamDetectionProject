@@ -1,0 +1,46 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git
+.mypy_cache
+.pytest_cache
+.hypothesis
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# TensorFlow
+logs/
+training_checkpoints/
+
+# NLTK
+nltk_data/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+
+# Data (if not needed)
+# data/  # Uncomment if you don't want to upload data
